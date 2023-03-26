@@ -7,9 +7,13 @@
 
 - 📫 My linked in account: [here](https://www.linkedin.com/in/amr-helmy-dev/) **or** [https://www.linkedin.com/in/amr-helmy-dev/](https://www.linkedin.com/in/amr-helmy-dev/)
 
-- 💬 I am a talented, ambitious and hardworking person, with extensive web development skills and experience. **m**
-
 - 📫 How to reach me : [here](amrhe4030@gmail.com)**or** **amrhe4030@gmail.com**
+
+- 💬 I am a talented, ambitious and hardworking person, with extensive web development skills and experience. **m**
+- 🌱 I’m currently learning Web Development HTML,CSS,Javascript ,React
+- 🌱 I’m currently learning **tons of things about tons of stuff.**
+- 💞️ I’m looking to collaborate on Any Project that can help me to improve my skills
+- 🙏 I hope to work in a great place. looking for a company which offers me a stable and positive atmosphere
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
